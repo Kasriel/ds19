@@ -10,4 +10,4 @@ Score = 0.78468
 
 <b>Submission_3</b>:
 
-Score = 
+Score = 0.75119
